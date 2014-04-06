@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/ikone_dugmici">
+        <file>D:/IKONE_KOLA/AND.png</file>
+        <file>D:/IKONE_KOLA/NAND.png</file>
+        <file>D:/IKONE_KOLA/NOR.png</file>
+        <file>D:/IKONE_KOLA/NOT.png</file>
+        <file>D:/IKONE_KOLA/OR.png</file>
+        <file>D:/IKONE_KOLA/XNOR.png</file>
+        <file>D:/IKONE_KOLA/XOR.png</file>
+    </qresource>
+</RCC>
